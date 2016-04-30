@@ -1,0 +1,14 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fl_panel1"
+    android:name="com.example.mmagdy_pc.movieguide.MainActivityFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:layout="@layout/fragment_main"
+    android:orientation="vertical"
+    android:background="#FF8B8B8B">
+
+
+    </FrameLayout>
+
+
